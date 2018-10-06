@@ -132,3 +132,19 @@ li {
     height: 40px;
     text-align: center;
 }
+
+.cleaner
+{
+    clear: both;
+    height: 0px;
+    margin: 0px;
+    padding: 0px;
+}
+
+.main{
+    margin:200px;
+    widows: 500px;
+    height: 800px;
+    padding: 50px;
+    border: 1px solid grey;
+}

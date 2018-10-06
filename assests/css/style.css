@@ -47,10 +47,12 @@ li {
     width: 250px;
     height: 40px;
     text-align: center;
+
 }
 
 img{
     float:left;
+    padding: 3px;
 }
 
 .main{
@@ -60,3 +62,6 @@ img{
     padding: 50px;
     border: 1px solid grey;
 }
+
+
+
