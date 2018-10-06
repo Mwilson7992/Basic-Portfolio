@@ -41,10 +41,12 @@ li {
     width: 250px;
     height: 40px;
     text-align: center;
+    margin-left: 205px;
+    margin-bottom: 30px;
 }
 
 .main{
-    margin:200px;
+    margin:auto;
     width:1000px;
     height: 400px;
     padding: 50px;

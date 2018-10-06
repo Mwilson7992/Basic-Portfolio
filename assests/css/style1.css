@@ -131,6 +131,8 @@ li {
     width: 250px;
     height: 40px;
     text-align: center;
+    margin-left:205px;
+    margin-bottom:30px;
 }
 
 .cleaner
@@ -142,7 +144,8 @@ li {
 }
 
 .main{
-    margin:200px;
+    margin-left:200px;
+    margin-right:200px;
     widows: 500px;
     height: 800px;
     padding: 50px;
